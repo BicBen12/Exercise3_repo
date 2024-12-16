@@ -1,3 +1,5 @@
 File from remote repo
 This is supposed to be a conflict from the Remote repo
-This is supposed to be a conflict from the first repo
+<<<<<<< HEAD
+This is supposed to be a conflict from the remote repo but its now solved
+>>>>>>> 8209e53789bd0bf64a4257eeff99cc8e6d128396
