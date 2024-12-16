@@ -1,1 +1,2 @@
 File from remote repo
+This is supposed to be a conflict from the Remote repo
